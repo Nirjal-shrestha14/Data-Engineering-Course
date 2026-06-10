@@ -10,9 +10,10 @@ A hands-on data engineering course covering the core tools and concepts used in 
 
 ## Course Structure
 
-| Week | Topic | Status |
-|------|-------|--------|
-| [Week 1](#week-1--postgresql--docker) | Data engineering and Basic SQL | In progress |
+| Week | Topic | Resources | Status |
+|------|-------|-----------|--------|
+| [Week 1](#week-1--data-engineering-and-basic-sql) | Data engineering and Basic SQL | | In progress |
+| [Week 2](#week-2--string-functions) | String Functions | [Cheatsheet](https://bishalrijal.github.io/Data-Engineering-Course/Week2/week2_string_functions_cheatsheet.html) | In progress |
 
 ---
 
